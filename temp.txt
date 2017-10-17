@@ -1,0 +1,4 @@
+abafada,abafado.PoS=Adj;GN=fs;TG=HUM;POL=-1;ANOT=JALC
+abafadas,abafado.PoS=Adj;GN=fp;TG=HUM;POL=-1;ANOT=JALC
+abafado,abafado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
+amiga da onça,amigo da onça.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
